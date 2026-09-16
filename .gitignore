@@ -1,0 +1,6 @@
+/rockbox/
+/playlist_builder/build/
+/playlist_builder/dist/
+/tools/
+*.exe
+__pycache__/
